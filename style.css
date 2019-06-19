@@ -4,7 +4,7 @@ h1 {
 }
 
 p {
-  color: purple;
+  font-size:19px;
 }
 .onePage, .two {
   width: 600px;
@@ -12,4 +12,13 @@ p {
   padding: 150px;
   border: 1px solid black;
   margin: 50px auto;
+}
+.minCharge{
+  color: purple;
+}
+.setWith{
+  color:rgb(179, 3, 3);
+}
+.setDiscount{
+  color:rgb(205, 190, 50);
 }
