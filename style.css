@@ -5,3 +5,10 @@ h1 {
 p {
   color: red;
 }
+.onePage, .two {
+  width: 1000px;
+  height: 1200px;
+  padding: 200px;
+  border: 1px solid black;
+  margin: 20px auto;
+}
