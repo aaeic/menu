@@ -1,3 +1,7 @@
+body{
+  background-color: black;
+}
+
 h1 {
   font-size: 40px;
   color: green;
@@ -7,11 +11,12 @@ p {
   font-size:19px;
 }
 .onePage, .two {
+  background-color: white;
   width: 600px;
   height: 1300px;
-  padding: 150px;
-  border: 1px solid black;
-  margin: 50px auto;
+  padding: 80px 120px ;
+  border: 10px solid black;
+  margin: 40px auto;
 }
 .minCharge{
   color: purple;
