@@ -4,8 +4,9 @@ Include all food and drinks
 
 The menu hasn't change for 20 year.
 Now 
-** TODO database of foodconf
 ** TODO random order  
    Sometimes, it's hard to dicide what to eat 
    let our menu decide a set just for you  
+** TODO serialize menu page  
+** TODO database of foodconf
 ** TODO API

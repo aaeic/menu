@@ -1,0 +1,1870 @@
+{
+    "set":{
+        "zh":"個人套餐",  
+        "en":"Set for one",
+        "list":{
+            "item":{
+                "name":["麻婆豆腐飯","spicy (ma-po) tofu"],
+                "price":180,
+                "spicy":2
+            },
+            "item2":{
+						    "name":["牛蕃茄豆腐飯","tomato & tofu"],
+						    "price": 180
+            },
+            "item3":{
+							  "name":["蛋炒牛蕃茄飯 scrambled eggs with tomato"],
+							  "price": 180
+				    },
+            "item":{
+							  "name":["京醬肉絲飯 pork strips & sweet soybean sauce"],
+							  "price": 180
+				    },
+            "item":{
+							  "name":["芹菜肉絲飯 celery fry with pork strips"],
+							  "price": 180
+				    },
+            "item":{
+							  "name":["芹菜干絲飯 celery fry with dried bean curd"],
+							  "price": 180
+				    },
+            "item":{
+							  "name":["魚香肉絲飯 pork strips & szechuan style"],
+                "price": 210,
+                "spicy":2
+				    },
+            "item":{
+							  "name":["糖醋排骨飯 sweet & sour sauce with spareribs"],
+							  "price": 230
+				    },
+            "item":{
+							  "name":["油蔥水晶雞飯 chicken & green onion sauce"],
+							  "price": 180
+				    },
+            "item":{
+							  "name":["醬爆雞丁飯 stir fry chicken & sweet soybean sauce"],
+							  "price":220
+				    },
+            "item":{
+							  "name":["宮保雞丁飯kong -pao chicken"],
+							  "price":220,
+							  "spicy":1
+				    },
+            "item":{
+							  "name":["蔥爆牛肉飯 beef fillet stir fry with green chives"],
+							  "price":220
+				    },
+            "item":{
+							  "name":["滑蛋牛柳飯 scrambled eggs with beef fillet"],
+							  "price":220
+				    },
+            "item":{
+							  "name":["沙茶牛肉飯<br> fried beef with water celery & bar-B-Q sauce"],
+							  "price":220,
+							  "spicy":1
+				    },
+            "item":{
+							  "name":["中華什錦炒飯 chinese fried rice"],
+							  "price":210
+				    },
+            "item":{
+							  "name":["什錦海鮮炒麵 fried noodles with seafood"],
+							  "price":230
+				    }
+        }
+    }
+     <h1>義大利麵pasta</h1>
+      "item":{
+							"name":["白酒蛤蜊義大利麵 <br>spaghetti with clams &white wine sauce "],
+							"price":170,
+							"spicy":1
+				},
+      "item":{
+							"name":["白酒海鮮義大利麵 <br>spaghetti with seafood & white wine sauce"],
+							"price":210,
+							"spicy":1
+				},
+      "item":{
+							"name":["奶油培根義大利麵 <br>spaghetti with bacon mushroom & cheese sauce"],
+							"price":170
+				},
+      "item":{
+							"name":["奶油蛤蜊義大利麵 <br>spaghetti with clams & cheese sauce"],
+							"price":210
+				},
+      "item":{
+							"name":["奶油海鮮義大利麵 <br>spaghetti with seafood & cheese sauce "],
+							"price":230
+				},
+      "item":{
+							"name":["番茄蛤蜊義大利麵 <br>spaghetti with clams & tomato sauce"],
+							"price":210
+				},
+      "item":{
+							"name":["番茄海鮮義大利麵 <br>spaghetti with seafood & tomato sauce"],
+							"price":230
+				},
+      "item":{
+							"name":["蒜椒橄欖油蛤蜊辣麵 <br>spaghetti with clams & spicy herbs sauce"],
+							"price":210,
+							"spicy":1
+				},
+      "item":{
+							"name":["蒜椒橄欖油海鮮辣麵 <br>spaghetti with seafood & spicy herbs sauce"],
+							"price":230,
+							"spicy":1
+				},
+      "item":{
+							"name":["拿坡里小肉丸海鮮義大利麵 <br>seafood & Italian sausage with Naples style"],
+							"price":260
+				},
+    <h1>燉飯risotto</h1>
+     "item":{
+							"name":["奶汁牛／豬肉菘菇燉飯 <br>Risotto with beef / pork & cheese sauce "],
+							"price":280
+				},
+     "item":{
+							"name":["茄汁牛／豬肉菘菇燉飯 <br>Risotto with beef / pork & tomato sauce "],
+							"price":280
+				},
+     "item":{
+							"name":["咖哩牛／豬肉菘菇燉飯 <br>Risotto with beef / pork & curry sauce   "],
+							"price":280,
+							"spicy":1
+				},
+     "item":{
+							"name":["奶汁起司海鮮燉飯 <br>Risotto with seafood & cheese sauce"],
+							"price":320
+				},
+     "item":{
+							"name":["咖哩海鮮燉飯 <br>Risotto with seafood & curry sauce"],
+							"price":320,
+							"spicy":1
+				},
+        <h1>豬肉pork</h1>
+      "item":{
+							"name":["黃瓜肉絲 pork strips  & cucumber"],
+							"price":230
+				},
+      "item":{
+							"name":["芹菜肉絲 pork strips & celery"],
+							"price":230
+				},
+      "item":{
+							"name":["魚香肉絲 pork strips & szechuan style"],
+							"price":260 <span class="spicy">*</span>,
+							"spicy":1
+				},
+      "item":{
+							"name":["京醬肉絲pork strips & sweet soybean sauce"],
+							"price":230
+				},
+      "item":{
+							"name":["木須肉 pork strips & tree Mushrooms & egg"],
+							"price":260
+				},
+      "item":{
+							"name":["酸菜四季豆肉絲 <br>Sauted french beans & pickled cabbage"],
+							"price":280
+				},
+      "item":{
+							"name":["回鍋肉 spicy sliced meat & cabbage"],
+							"price":260,
+							"spicy":1
+				},
+      "item":{
+							"name":["台式滷肉 braised pork in Taiwanese style "],
+							"price":280
+				},
+      "item":{
+							"name":["瓜仔蒸肉餅 steamed minced pork cake with pickled cucumber in soy sauce"],
+							"price":260
+				},
+      "item":{
+							"name":["干絲豬柳 pork strips fry with dried bean curd"],
+							"price":230
+				},
+      "item":{
+							"name":["客家小炒 haken fries"],
+							"price":230,
+							"spicy":1
+				},
+      "item":{
+							"name":["椒鹽排骨 peppered spareribs"],
+							"price":320
+				},
+      "item":{
+							"name":["糖醋排骨 sweet & sour sauce with spareribs "],
+							"price":320
+				},
+    <h1>粉絲Chinese vermicelli</h1>
+      "item":{
+							"name":["螞蟻上樹 chinese vermicelli with spicy sauce"],
+							"price":230 <span class="spicy">*</span>,
+							"spicy":1
+				},
+      "item":{
+							"name":["絲瓜麵線 loofah with noodles"],
+							"price":230
+				},
+      "item":{
+							"name":["咖哩粉絲蝦 braised prawn & Chinese vermicelli with curry sauce"],
+							"price":360,
+							"spicy":1
+				},
+    <h1>雞肉poultry</h1>
+
+      "item":{
+							"name":["醬爆雞丁 stir fry chicken & sweet soybean sauce"],
+							"price":260
+				},
+      "item":{
+							"name":["油蔥水晶雞chicken & green onion sauce"],
+							"price":230
+				},
+      "item":{
+							"name":["糖醋雞丁sweet & sour sauce chicken"],
+							"price":280
+				},
+      "item":{
+							"name":["宮保雞丁 kong -pao chicken"],
+							"price":260,
+							"spicy":1
+				},
+      "item":{
+							"name":["腰果雞丁 cashew & chicken"],
+							"price":280
+				},
+      "item":{
+							"name":["葡式咖喱雞 curry chicken in Portuguese style"],
+							"price":320,
+							"spicy":1
+				},
+
+    <h1>牛肉beef</h1>
+
+      "item":{
+							"name":["蔥爆牛柳 beef fillet stir fry with green chives"],
+							"price":260 ,
+				},
+      "item":{
+							"name":["干絲牛柳 beef fillet fry with dried bean curd"],
+							"price":280
+				},
+      "item":{
+							"name":["青椒牛柳 beef fillet stir fry with green peppers "],
+							"price":280
+				},
+      "item":{
+							"name":["沙茶牛肉 fried beef fillet bar-B-Q sauce"],
+							"price":260,
+							"spicy":1
+				},
+      "item":{
+							"name":["滑蛋牛柳 scrambled eggs with beef fillet"],
+							"price":260
+				},
+
+    <h1>豆腐tofu</h1>
+      "item":{
+							"name":["麻婆豆腐 spicy (ma-po) tofu "],
+							"price":230 <span class="spicy">*</span>,
+							"spicy":1
+				},
+      "item":{
+							"name":["家常豆腐 tofu with home style"],
+							"price":230
+				},
+      "item":{
+							"name":["牛番茄豆腐 tomato fry with tofu"],
+							"price":230
+				},
+      "item":{
+							"name":["蝦仁豆腐 shrimp & tofu"],
+							"price":280
+				},
+
+          <h1>蔬菜vegetables</h1>
+
+      "item":{
+							"name":["時鮮蔬菜  today’s fresh vegetables"],
+							"price":100
+				},
+     <p><strong>空心菜 water celery / 高麗菜 cabbage /  A菜 taiwan lettuce /菠菜 spinach /</strong></p>
+     <p><strong> 山茼蒿 crown daisy / 水蓮 white water snowflake / 廣東A  fushan lettuce</strong></p>
+
+       "item":{
+							"name":["培根高麗菜 cabbage with bacon bits"],
+							"price":180
+				},
+       "item":{
+							"name":["宮保高麗菜 kong-pao cabbage"],
+							"price":160,
+							"spicy":1
+				},
+       "item":{
+							"name":["清炒豆苗 pea sprouts"],
+							"price":160
+				},
+       "item":{
+							"name":["鹹蛋苦瓜 bitter gourd & salted egg "],
+							"price":260
+				},
+       "item":{
+							"name":["豆豉小魚苦瓜 bitter gourd & tiny fish fermented & seasoned soybean"],
+							"price":260
+				},
+       "item":{
+							"name":["醬爆雙茄 eggplant & tomato with sweet soybean sauce"],
+							"price":260
+				},
+       "item":{
+							"name":["魚香茄子 eggplant ground pork with Szechuan style"],
+							"price":260 <span class="spicy">*</span>,
+							"spicy":1
+				},
+       "item":{
+							"name":["塔香茄子 eggplant fry with basil"],
+							"price":220
+				},
+
+     <h1>蛋egg</h1>
+       "item":{
+							"name":["菜脯蛋 egg cake with dried radish"],
+							"price":180
+				},
+       "item":{
+							"name":["蔥花蛋 egg cake with green chives"],
+							"price":180
+				},
+       "item":{
+							"name":["魚香烘蛋 egg cake with Szechuan style"],
+							"price":230 <span class="spicy">*</span>,
+							"spicy":1
+				},
+       "item":{
+							"name":["九層塔烘蛋 egg cake with basil"],
+							"price":180
+				},
+       "item":{
+							"name":["蛋炒牛番茄 scrambled eggs fry with tomato"],
+							"price":230
+				},
+       "item":{
+							"name":["蝦丁肉末烘蛋 egg cake with shrimp & ground pork"],
+							"price":280
+				},
+       "item":{
+							"name":["滑蛋蝦仁 scrambled eggs fry with shrimp"],
+							"price":280
+				},
+
+       <h1>海鮮類seafood </h1>
+
+       "item":{
+							"name":["蛤蜊絲瓜 clam with loofah"],
+							"price":220
+				},
+       "item":{
+							"name":["紅燒魚 stew in soy sauce with Taiwan tilapia "],
+							"price":320
+				},
+       "item":{
+							"name":["糖醋魚 sweet & sour sauce with Taiwan tilapia "],
+							"price":320
+				},
+       "item":{
+							"name":["清蒸豆腐魚 steamed Taiwan tilapia  with tofu "],
+							"price":320
+				},
+       "item":{
+							"name":["豆瓣魚 spicy yellow bean sauce with Taiwan tilapia  "],
+							"price":320,
+							"spicy":1
+				},
+       "item":{
+							"name":["炒三鮮 fried 3 seafood "],
+							"price":280
+				},
+       "item":{
+							"name":["鹹酥蝦 <span class="spicy">*</span>salt fried shrimp  "],
+							"price":280
+				},
+       "item":{
+							"name":["腰果蝦仁 fried shrimp with cashew "],
+							"price":360
+				},
+       "item":{
+							"name":["豆苗蝦仁 fried shrimp  with pea sprouts "],
+							"price":320
+				},
+       "item":{
+							"name":["清炒蝦仁 fried shrimp with vegetables "],
+							"price":280
+				},
+       "item":{
+							"name":["宮保蝦仁 kong-pqo shrimp  "],
+							"price":280,
+							"spicy":1
+				},
+       "item":{
+							"name":["果律蝦球 deep fried shrimp with pineapple sala "],
+							"price":320
+				},
+
+     <h1>湯類soup</h1>
+
+       "item":{
+							"name":["蛤蜊薑絲湯 soup with clam & ginger "],
+							"price":180
+				},
+       "item":{
+							"name":["蕃茄時蔬豆腐湯 soup with tofu & vegetables "],
+							"price":220
+				},
+       "item":{
+							"name":["龍王海鮮湯 soup with 3 seafood "],
+							"price":280
+				},
+       "item":{
+							"name":["冬菜肉絲湯 soup with dried mustard plant & pork strips "],
+							"price":220
+				},
+       "item":{
+							"name":["西湖海鮮羹 thick soup with seafood & tofu "],
+							"price":260
+				},
+         <div class="onePage">
+   <h1>599合菜  2人份</h1>
+
+   "item":{
+							"name":["A-1    麻婆豆腐 spicy (ma-po) tofu   <span class="spicy">*</span>,
+							"spicy":1
+				},
+   "item":{
+							"name":["         宮保雞丁 kong -pao chicken  ,
+							"spicy":1
+				},
+   "item":{
+							"name":["         炒時蔬 vegetables,
+				},
+
+   "item":{
+							"name":["  A-2    回鍋肉 spicy sliced meat & cabbage ,
+							"spicy":1
+				},
+   "item":{
+							"name":["          絲瓜麵線 loofah with noodles ,
+				},
+   "item":{
+							"name":["          炒時蔬 vegetables,
+				},
+
+   "item":{
+							"name":["A-3    蔥爆牛柳 beef fillet stir fry with green chives,
+				},
+   "item":{
+							"name":["         塔香茄子 eggplant fry with basil,
+				},
+   "item":{
+							"name":["         炒時蔬 vegetables,
+				},
+
+   "item":{
+							"name":["A-5    瓜仔蒸肉餅 steamed minced pork cake with pickled cucumber in soy sauce ,
+				},
+   "item":{
+							"name":["         蛤蜊絲瓜 clam with loofah ,
+				},
+   "item":{
+							"name":["         炒時蔬 vegetables,
+				},
+
+   "item":{
+							"name":["A-6    醬爆雙茄 eggplant & tomato with sweet soybean sauce,
+				},
+   "item":{
+							"name":["         菜脯蛋 egg cake with dried radish ,
+				},
+   "item":{
+							"name":["         宮保高麗菜 kong-pao cabbage,
+				},
+
+
+     <h1>799合菜  3人份</h1>
+
+
+   "item":{
+							"name":["B-1    台式滷肉 braised pork in Taiwanese style,
+				},
+   "item":{
+							"name":["         油蔥水晶雞chicken & green onion sauce,
+				},
+   "item":{
+							"name":["         蝦仁豆腐 shrimp & tofu,
+				},
+
+
+   "item":{
+							"name":["  B-2    蔥爆牛柳 beef fillet stir fry with green chives,
+				},
+   "item":{
+							"name":["          宮保雞丁 kong -pao chicken   <span class="spicy">*</span>  ,
+				},
+   "item":{
+							"name":["          滑蛋蝦仁 scrambled eggs fry with shrimp,
+				},
+
+
+   "item":{
+							"name":["B-3    糖醋排骨 sweet & sour sauce with spareribs,
+				},
+   "item":{
+							"name":["         麻婆豆腐 spicy (ma-po) tofu   <span class="spicy">*</span>,
+							"spicy":1
+				},
+   "item":{
+							"name":["         醬爆雞丁 stir fry chicken & sweet soybean sauce,
+				},
+
+
+   "item":{
+							"name":["B-5    腰果雞丁 cashew & chicken ,
+				},
+   "item":{
+							"name":["         酸菜四季豆肉絲 Sauted french beans & pickled cabbage ,
+				},
+   "item":{
+							"name":["         滑蛋牛柳 scrambled eggs with beef fillet,
+				},
+
+  
+   <h1>999合菜  4人份</h1>
+
+   "item":{
+							"name":["C-1    清蒸豆腐魚 steamed Taiwan tilapia  with tofu,
+				},
+   "item":{
+							"name":["         培根高麗菜 cabbage with bacon bits ,
+				},
+   "item":{
+							"name":["         京醬肉絲pork strips & sweet soybean sauce,
+				},
+   "item":{
+							"name":["         炒時蔬 vegetables,
+				},
+   "item":{
+							"name":["         蛤蜊薑絲湯 soup with clam & ginger,
+				},
+
+
+   "item":{
+							"name":["  C-2    宮保雞丁 kong -pao chicken  ,
+							"spicy":1
+				},
+   "item":{
+							"name":["          家常豆腐 tofu with home style,
+				},
+   "item":{
+							"name":["         黃瓜肉絲 pork strips  & cucumber,
+				},
+   "item":{
+							"name":["          炒時蔬 vegetables,
+				},
+   "item":{
+							"name":["         蛤蜊薑絲湯 soup with clam & ginger,
+				},
+
+
+   "item":{
+							"name":["C-3    沙茶牛肉 fried beef fillet bar-B-Q sauce"],
+							"price":260 ,
+							"spicy":1
+				},
+   "item":{
+							"name":["         客家小炒 haken fries,
+				},
+   "item":{
+							"name":["         魚香烘蛋 egg cake with Szechuan style   <span class="spicy">*</span>  ,
+							"spicy":1
+				},
+   "item":{
+							"name":["         炒時蔬 vegetables,
+				},
+   "item":{
+							"name":["         蛤蜊薑絲湯 soup with clam & ginger,
+				},
+
+
+     <h1>999合菜  4人份</h1>
+
+   "item":{
+							"name":["C-5    瓜仔蒸肉餅 steamed minced pork cake with pickled cucumber in soy sauce ,
+				},
+   "item":{
+							"name":["         菜脯蛋 egg cake with dried radish ,
+				},
+   "item":{
+							"name":["           炒三鮮 fried 3 seafood ,
+				},
+   "item":{
+							"name":["         炒時蔬 vegetables,
+				},
+   "item":{
+							"name":["         蛤蜊薑絲湯 soup with clam & ginger,
+				},
+
+
+   "item":{
+							"name":["C-6    牛番茄豆腐 tomato fry with tofu,
+				},
+   "item":{
+							"name":["         螞蟻上樹 chinese vermicelli with spicy sauce    <span class="spicy">*</span>  ,
+							"spicy":1
+				},
+   "item":{
+							"name":["         鹹蛋苦瓜 bitter gourd & salted egg ,
+				},
+   "item":{
+							"name":["         炒時蔬 vegetables,
+				},
+   "item":{
+							"name":["         蛤蜊薑絲湯 soup with clam & ginger,
+				},
+
+
+   "item":{
+							"name":["C-7    油蔥水晶雞chicken & green onion sauce ,
+				},
+   "item":{
+							"name":["         絲瓜麵線 loofah with noodles,
+				},
+   "item":{
+							"name":["         蔥爆牛柳 beef fillet stir fry with green chives ,
+				},
+   "item":{
+							"name":["         炒時蔬 vegetables,
+				},
+   "item":{
+							"name":["         蛤蜊薑絲湯 soup with clam & ginger,
+				},
+     <h1>特選手沖咖啡 "],
+							"price":120 / NT160</1>
+
+    <h1>義式咖啡Café Espresso</h1>
+      "item":{
+							"name":["美式咖啡 americano "],
+							"price":85,
+				},
+      "item":{
+							"name":["肉桂咖啡 cinnamon café "],
+							"price":90
+				},
+      "item":{
+							"name":["摩卡咖啡 café mocha "],
+							"price":95,
+				},
+      "item":{
+							"name":["卡布奇諾 cappuccino "],
+							"price":95,
+				},
+      "item":{
+							"name":["咖啡歐蕾 café au lait "],
+							"price":95,
+				},
+      "item":{
+							"name":["拿鐵咖啡 café latte "],
+							"price":95,
+				},
+      "item":{
+							"name":["焦糖瑪奇亞朵 caramel macchiato "],
+							"price":115,
+				},
+      "item":{
+							"name":["可可瑪奇亞朵 cocoa macchiato "],
+							"price":115,
+				},
+      "item":{
+							"name":["草莓康寶藍 strawberry con panna "],
+							"price":115,
+				},
+      "item":{
+							"name":["香蕉康寶藍 banana con panna "],
+							"price":115,
+				},
+      "item":{
+							"name":["奇異果康寶藍 kiwi con panna "],
+							"price":115,
+				},
+      "item":{
+							"name":["香草拿鐵 vanilla café latte "],
+							"price":120
+				},
+      "item":{
+							"name":["愛爾蘭煉乳拿鐵 Irish cream café latte "],
+							"price":115,
+				},
+      "item":{
+							"name":["榛果拿鐵 hazelnut café latte "],
+							"price":115,
+				},
+      "item":{
+							"name":["椰香拿鐵 coconut café latte "],
+							"price":115,
+				},
+      "item":{
+							"name":["酒香咖啡 alcoholic americano "],
+							"price":130
+				},
+
+      <h1>咖啡冰砂café smoothies</h1>
+       "item":{
+							"name":["卡布奇諾冰砂 cappuccino smoothies "],
+							"price":110
+				},
+       "item":{
+							"name":["拿鐵冰砂 café latte smoothies "],
+							"price":110
+				},
+       "item":{
+							"name":["摩卡冰砂 mocha café smoothies"],
+							"price":110
+				},
+       "item":{
+							"name":["黑森林咖啡冰砂 black forest smoothies"],
+							"price":120
+				},
+       "item":{
+							"name":["巧克力碎片咖啡冰砂 chocolate café smoothies"],
+							"price":120
+				},
+       "item":{
+							"name":["香草拿鐵冰砂 vanilla café latte smoothies"],
+							"price":130
+				},
+       "item":{
+							"name":["愛爾蘭煉乳拿鐵冰砂 Irish cream café latte smoothies"],
+							"price":130
+				},
+       "item":{
+							"name":["榛果拿鐵冰砂 hazelnut café latte smoothies"],
+							"price":130
+				},
+       "item":{
+							"name":["椰香拿鐵冰砂 coconut café latte smoothies"],
+							"price":130
+				},
+       "item":{
+							"name":["焦糖瑪奇亞朵冰砂 caramel macchiato smoothies"],
+							"price":130
+				},
+       "item":{
+							"name":["可可瑪奇亞朵冰砂 cocoa macchiato smoothies"],
+							"price":130
+				},
+       "item":{
+							"name":["草莓康寶藍冰砂 strawberry con panna smoothies"],
+							"price":130
+				},
+       "item":{
+							"name":["奇異果康寶藍冰砂 kiwi con panna smoothies"],
+							"price":130
+				},
+       "item":{
+							"name":["香蕉康寶藍冰砂 banana con panna smoothies"],
+							"price":130
+				},
+
+     <h1>牛奶冰砂milk smoothies</h1>
+       "item":{
+							"name":["愛爾蘭煉乳牛奶冰砂 Irish cream milk smoothies"],
+							"price":120
+				},
+       "item":{
+							"name":["榛果牛奶冰砂 hazelnut milk smoothies"],
+							"price":120
+				},
+       "item":{
+							"name":["巧克力牛奶冰砂 chocolate milk smoothies"],
+							"price":120
+				},
+       "item":{
+							"name":["草莓牛奶冰砂 strawberry milk smoothies"],
+							"price":120
+				},
+       "item":{
+							"name":["香草牛奶冰砂 vanilla milk smoothies"],
+							"price":120
+				},
+       "item":{
+							"name":["焦糖牛奶冰砂 caramel milk smoothies"],
+							"price":120
+				},
+       "item":{
+							"name":["椰香牛奶冰砂 coconut milk smoothies"],
+							"price":120
+				},
+       "item":{
+							"name":["可可奶冰砂 cocoa milk smoothies"],
+							"price":120
+				},
+     <h1>水果冰砂fruit smoothies</h1>
+       "item":{
+							"name":["水蜜桃冰砂 peach smoothies "],
+							"price":99,
+				},
+       "item":{
+							"name":["小藍莓冰砂 blueberry smoothies "],
+							"price":99,
+				},
+       "item":{
+							"name":["情人果冰砂 lover mango smoothies "],
+							"price":99,
+				},
+       "item":{
+							"name":["百香果冰砂 passion fruit smoothies "],
+							"price":99,
+				},
+       "item":{
+							"name":["極品草莓爽 strawberry smoothies with ice cream "],
+							"price":150
+				},
+       "item":{
+							"name":["極品芒果爽 mango smoothies with ice cream "],
+							"price":150
+				},
+
+     <h1>特別飲料special drink</h1>
+      "item":{
+							"name":["日落紐約 New York sunset "],
+							"price":150
+				},
+       "item":{
+							"name":["漂浮冰咖啡 café float "],
+							"price":110
+				},
+       "item":{
+							"name":["漂浮汽水 soda float "],
+							"price":110
+				},
+       "item":{
+							"name":["情定巴黎 French kiss "],
+							"price":150
+				},
+       "item":{
+							"name":["蔚藍海岸 la cote d’azur "],
+							"price":150
+				},
+       "item":{
+							"name":["二見鍾情 fall in love  "],
+							"price":150
+				},
+       "item":{
+							"name":["麗都銷魂夜 a gauche de la mour "],
+							"price":150
+				},
+       "item":{
+							"name":["墨西哥冰咖啡 Mexican café mist "],
+							"price":150
+				},
+       "item":{
+							"name":["牙買加霜凍咖啡 Jamaican frosty "],
+							"price":150
+				},
+
+       <div class="minCharge">
+           <p>所有價格均需附加10% 服務費 subject to a 10% service charge</p>
+          </div>
+   </div>
+   <div class="onePage">
+     <h1>特別冰品special iced cream</h1>
+       "item":{
+							"name":["香蕉船 banana ship "],
+							"price":150
+				},
+       "item":{
+							"name":["巧克力聖代 chocolate sundae "],
+							"price":150
+				},
+       "item":{
+							"name":["時鮮水果聖代 season fruit sundae "],
+							"price":150
+				},
+       "item":{
+							"name":["夏威夷水果冰塔 Hawaii mix fruit & ice cream "],
+							"price":180
+				},
+
+     <h1>果汁juice</h1>
+       "item":{
+							"name":["蘋果汁 apple juice "],
+							"price":120
+				},
+       "item":{
+							"name":["芭樂汁 guava juice "],
+							"price":120
+				},
+       "item":{
+							"name":["芒果汁 mango juice "],
+							"price":120
+				},
+       "item":{
+							"name":["奇異果汁 kiwi juice "],
+							"price":120
+				},
+       "item":{
+							"name":["柳橙原汁 orange juice "],
+							"price":120
+				},
+       "item":{
+							"name":["蜂蜜檸檬汁 honey & lemon juice "],
+							"price":120
+				},
+       "item":{
+							"name":["金桔檸檬汁 kumquat & lemon juice "],
+							"price":120
+				},
+       "item":{
+							"name":["葡萄柚汁 grapefruit juice "],
+							"price":120
+				},
+       "item":{
+							"name":["綜合果汁 mixed juice "],
+							"price":120
+				},
+       <div class="minCharge">
+           <p>所有價格均需附加10% 服務費 subject to a 10% service charge</p>
+          </div>
+   </div>
+   <div class="onePage">
+     <h1>奶茶milk tea</h1>
+       "item":{
+							"name":["錫蘭鮮奶茶 Ceylon milk tea "],
+							"price":120
+				},
+       "item":{
+							"name":["茉莉鮮綠奶茶 jasmine milk tea "],
+							"price":120
+				},
+       "item":{
+							"name":["玫瑰鮮奶茶 rose milk tea "],
+							"price":120
+				},
+       "item":{
+							"name":["桂花鮮奶茶 Osmanthus milk tea "],
+							"price":120
+				},
+       "item":{
+							"name":["伯爵鮮奶茶 earl milk tea "],
+							"price":120
+				},
+       "item":{
+							"name":["蘋果鮮奶茶 apple milk tea "],
+							"price":120
+				},
+       "item":{
+							"name":["小藍莓鮮奶茶 blueberry milk tea "],
+							"price":120
+				},
+       "item":{
+							"name":["草莓鮮奶茶 strawberry milk tea "],
+							"price":130
+				},
+       "item":{
+							"name":["水蜜桃鮮奶茶 peach milk tea "],
+							"price":130
+				},
+       "item":{
+							"name":["椰子鮮奶茶 coconut milk tea "],
+							"price":130
+				},
+       "item":{
+							"name":["榛果鮮奶茶 hazelnut milk tea "],
+							"price":130
+				},
+       "item":{
+							"name":["愛爾蘭煉乳鮮奶茶 Irish cream milk tea "],
+							"price":130
+				},
+       "item":{
+							"name":["香草鮮奶茶 vanilla milk tea "],
+							"price":130
+				},
+       "item":{
+							"name":["焦糖鮮奶茶 caramel milk tea "],
+							"price":130
+				},
+
+     <h1>公主奶茶milk tea</strong><strong> 冷／熱</h1>
+       "item":{
+							"name":["阿薩姆奶茶Assam milk tea "],
+							"price":150
+				},
+       "item":{
+							"name":["紅玉奶茶Ruby milk tea "],
+							"price":150
+				},
+       "item":{
+							"name":["鐵觀音奶茶Tieguanyin milk tea "],
+							"price":150
+				},
+       "item":{
+							"name":["抹茶烏龍奶綠Matcha Oolong milk green tea "],
+							"price":150
+				},
+     </div>
+     <div class="onePage">
+       <h1>熱／冰茶hot / iced tea</h1>
+        "item":{
+							"name":["放肆情人 maraschino "],
+							"price":90
+				},
+        "item":{
+							"name":["巴黎香榭 raspberry "],
+							"price":90
+				},
+        "item":{
+							"name":["黑森林 samurai "],
+							"price":90
+				},
+        "item":{
+							"name":["藍色憂鬱 blue eyes "],
+							"price":90
+				},
+        "item":{
+							"name":["玫瑰情事 rose tea "],
+							"price":90
+				},
+        "item":{
+							"name":["野菊花鄉 chrysanthemum "],
+							"price":90
+				},
+        "item":{
+							"name":["明鏡菩提 bodhi "],
+							"price":90
+				},
+        "item":{
+							"name":["絲路 silk road "],
+							"price":90
+				},
+        "item":{
+							"name":["薰衣草 lavender "],
+							"price":90
+				},
+        "item":{
+							"name":["極品鮮果茶 mix fruit tea "],
+							"price":150
+				},
+        "item":{
+							"name":["鮮桔茶 kumquat tea  "],
+							"price":120
+				},
+        "item":{
+							"name":["蘋果茶 apple tea "],
+							"price":120
+				},
+        "item":{
+							"name":["錫蘭茶 Ceylon tea "],
+							"price":90
+				},
+        "item":{
+							"name":["伯爵茶 earl tea "],
+							"price":90
+				},
+        "item":{
+							"name":["小藍莓茶 blueberry tea "],
+							"price":90
+				},
+        "item":{
+							"name":["草莓茶 strawberry tea "],
+							"price":90
+				},
+        "item":{
+							"name":["百香蜜桃茶 peach & passion fruit "],
+							"price":90
+				},
+        "item":{
+							"name":["四紅果茶 four red fruits "],
+							"price":90
+				},
+        "item":{
+							"name":["香橙肉桂茶 orange & cinnamon "],
+							"price":90
+				},
+        "item":{
+							"name":["香草茶 vanilla tea "],
+							"price":90
+				},
+        "item":{
+							"name":["茉莉綠茶 jasmine tea "],
+							"price":90
+				},
+        "item":{
+							"name":["桂花茶 Osmanthus tea "],
+							"price":90
+				},
+        "item":{
+							"name":["檸檬茶 lemon tea "],
+							"price":100
+				},
+      </div>
+      <div class="onePage">
+   <h1>台灣茶Taiwan tea</h1>
+     "item":{
+							"name":["手奉茶 120NT   功夫泡200NT,
+				},
+     "item":{
+							"name":["三峽碧螺春 Sanxia Biluochun (Green Spiral),
+				},
+     "item":{
+							"name":["海山龍井 Haishan Long Jing tea,
+				},
+     "item":{
+							"name":["坪林文山包種 Pinglin Wenshan Pouchong,
+				},
+     "item":{
+							"name":["杉林溪高山烏龍 Sunlinksea High mountain Oolong tea,
+				},
+     "item":{
+							"name":["梨山烏龍茶 Lishan Oolong tea,
+				},
+     "item":{
+							"name":["松柏嶺四季春 Songboling Sijichun,
+				},
+     "item":{
+							"name":["凍頂四季春 Dodging Sijichun,
+				},
+     "item":{
+							"name":["阿里山金萱 Ali mountain Jinxuan,
+				},
+     "item":{
+							"name":["龍眼林金萱 Longyanlin Jinxuan,
+				},
+     "item":{
+							"name":["鹿谷凍頂烏龍 Lugu Dongding Oolong tea,
+				},
+     "item":{
+							"name":["木柵正欉鐵觀音 Muzha Tieguanyin,
+				},
+     "item":{
+							"name":["台東鹿野紅烏龍 Luye red Oolong,
+				},
+     "item":{
+							"name":["峨嵋東方美人 Emei Oriental beauty,
+				},
+     "item":{
+							"name":["翠巒蟬咬紅烏龍 Qalang Bubun red Oolong-honey fragrance,
+				},
+     "item":{
+							"name":["台東鹿野阿薩姆紅茶 Luye Assam,
+				},
+     "item":{
+							"name":["阿里磅紅茶Alibang black tea,
+				},
+     "item":{
+							"name":["日月潭紅玉  no.18  Sun moon Lake Ruby Black tea,
+				},
+     <div class="minCharge">
+         <p>所有價格均需附加10% 服務費 subject to a 10% service charge</p>
+        </div>
+   </div>
+   <div class="onePage">
+   <h1>牛奶special milk</h1>
+
+   "item":{
+							"name":["芒果牛奶 mango & milk  "],
+							"price":120
+				},
+   "item":{
+							"name":["草莓牛奶 strawberry & milk  "],
+							"price":120
+				},
+   "item":{
+							"name":["蘋果牛奶 apple & milk  "],
+							"price":120
+				},
+   "item":{
+							"name":["香蕉牛奶 banana & milk  "],
+							"price":120
+				},
+   "item":{
+							"name":["可可奶 cocoa milk  "],
+							"price":120
+				},
+   "item":{
+							"name":["巧克力奶 chocolate milk  "],
+							"price":120
+				},
+   "item":{
+							"name":["香草牛奶 vanilla milk  "],
+							"price":120
+				},
+   "item":{
+							"name":["榛果牛奶 hazelnut milk  "],
+							"price":120
+				},
+   "item":{
+							"name":["焦糖牛奶 caramel milk  "],
+							"price":120
+				},
+
+
+
+   <h1>點心Refreshment</h1>
+     "item":{
+							"name":["馬鈴薯條 French fries ,
+				},
+     "item":{
+							"name":["番薯條 Sweet potato fries,
+				},
+     "item":{
+							"name":["雞塊 chicken nuggets,
+				},
+     "item":{
+							"name":["玉米布丁酥 Sweet corn pudding,
+				},
+     "item":{
+							"name":["洋蔥圈 Onion rings,
+				},
+     "item":{
+							"name":["馬鈴薯球 fried potato balls,
+				},
+
+   <p>單點 NT80  / 雙拼 NT150</p></div>  
+<div class="onePage">
+   <h1>啤酒BEER</h1>
+   "item":{
+							"name":["台灣 金牌啤酒 Taiwai Beer  600ml  5%"],
+							"price":100
+				},
+   "item":{
+							"name":["美國 百威 Budweiser  330ml  5% "],
+							"price":120
+				},
+   "item":{
+							"name":["美國 北岸 拉斯普京 帝王黑啤 ,
+				},
+   "item":{
+							"name":["North Coast Old Rasputin Imperial Stout  355ml   9% "],
+							"price":180
+				},
+   "item":{
+							"name":["墨西哥 可樂娜 Corona  330ml  4.6% "],
+							"price":120
+				},
+   "item":{
+							"name":["丹麥 嘉士伯 Carlsberg  330 ml  5% "],
+							"price":120
+				},
+   "item":{
+							"name":["丹麥 夏日蜜蘋果酒 Somersby Apple Cider   330 ml  4.5% "],
+							"price":120
+				},
+   "item":{
+							"name":["法國 可倫堡1664白啤酒  kronenbourg 1664 blanc  330 ml  5% "],
+							"price":120
+				},
+   "item":{
+							"name":["義大利 沛羅尼啤酒 PERONI  330 ml  5.1% "],
+							"price":120
+				},
+   "item":{
+							"name":["荷蘭 海尼根 Heineken  330ml  5% "],
+							"price":120
+				},
+   "item":{
+							"name":["荷蘭 葛蘭斯 Grolsch  473ml  5%  "],
+							"price":160
+				},
+   "item":{
+							"name":["日本 三得利生啤酒 Suntory PREMIUM Malts 500ml  5.5% "],
+							"price":160
+				},
+   "item":{
+							"name":["德國 艾丁格 小麥啤酒 Erdinger Weißber  500ml  5.3% "],
+							"price":160
+				},
+   "item":{
+							"name":["德國 艾丁格 黑啤酒 Erdinger Dunkel  500ml  5.6% "],
+							"price":160
+				},
+  </div>
+  <div class="onePage">
+   "item":{
+							"name":["英國 伯丁罕 罐裝啤酒 Boddingtons  440ml  4.7% "],
+							"price":160
+				},
+   "item":{
+							"name":["愛爾蘭 健力士 罐裝生啤酒 Guinness  440ml  4.2% "],
+							"price":160
+				},
+   "item":{
+							"name":["德國 艾英格 小麥啤酒 Ayinger Brau-Weisse  500ml  5.1% "],
+							"price":180
+				},
+   "item":{
+							"name":["德國 艾英格 窖藏黑啤酒 Ayinger Altbairisch Dunkel  500ml  5% "],
+							"price":180
+				},
+   "item":{
+							"name":["比利時 豪格登 白啤酒 Hoegaarden  330ml  4.9%  "],
+							"price":120
+				},
+   "item":{
+							"name":["比利時 富樂 櫻桃啤酒 Floris Griotte  330ml  3.6% "],
+							"price":180
+				},
+   "item":{
+							"name":["比利時 大象迷幻 三麥金啤酒 Delirium Tremens  330ml  8.5%"],
+							"price":180
+				},
+   "item":{
+							"name":["比利時 杜瓦野酒花三麥金啤酒 Duvel Tripel Hop  330ml  9.5% "],
+							"price":180
+				},
+   "item":{
+							"name":["比利時 城堡櫻桃黑啤酒 Kasteel Rouge  330ml  8%  "],
+							"price":180
+				},
+   "item":{
+							"name":["比利時 馬勒12 濃厚頂層發酵黑啤酒 ,
+				},
+   "item":{
+							"name":["MALHEUR12  Belgian-Style Dark Strong ale  330ml  12% "],
+							"price":180
+				},
+   </div>
+   <div class="onePage">
+   <h1>威士忌whisky</h1>
+
+   "item":{
+							"name":["邁阿密海灘Miami beach    +白柑酒+苦艾酒+葡萄柚汁 "],
+							"price":150 ,
+				},
+   "item":{
+							"name":["威士忌酸酒whisky sour   +檸檬汁  "],
+							"price":140
+				},
+   "item":{
+							"name":["加州檸檬汁California lemonade   +檸檬汁+soda  "],
+							"price":150 ,
+				},
+   "item":{
+							"name":["超速快感Blended cumfort    +水蜜桃酒+南方安逸酒+苦艾酒+柳橙+檸檬汁 "],
+							"price":300
+				},
+   "item":{
+							"name":["南方安逸Southern Comfort "],
+							"price":180
+				},
+   "item":{
+							"name":["銹釘子rusty nail   +蜂蜜酒 "],
+							"price":180
+				},
+   "item":{
+							"name":["教父god father   +杏桃酒  "],
+							"price":180
+				},
+   "item":{
+							"name":["紐約New york    +萊姆汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["國王的山谷King’s valley   +白柑酒+藍柑酒+萊姆汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["蘋果傑克apple jack     +蘋果汁  "],
+							"price":150
+				},
+   "item":{
+							"name":["曼哈頓manhattan     +甜苦艾酒+香苦汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["老古板old fashioned     +新鮮水果+香苦汁   "],
+							"price":130
+				},
+   "item":{
+							"name":["城市獵人city hunter      +櫻桃酒   "],
+							"price":130
+				},
+   "item":{
+							"name":["紅杏出牆pink almond       +杏桃酒+櫻桃酒+檸檬汁   "],
+							"price":180
+				},
+   "item":{
+							"name":["神祕三角洲DELTA     +南方安逸酒+萊姆汁 "],
+							"price":180
+				},
+   "item":{
+							"name":["冷漠的上校cool colonel    +南方安逸酒+紅茶+檸檬汁+soda  "],
+							"price":180
+				},
+   "item":{
+							"name":["海軍司令commodore     +草莓酒+柳橙+檸檬汁+香苦汁   "],
+							"price":150
+				},
+   "item":{
+							"name":["肯德基kentucky    +櫻桃酒+鳳梨汁+檸檬汁   "],
+							"price":130
+				},
+   "item":{
+							"name":["傑克森廣場jackson square     +綠薄荷酒+香苦汁+soda "],
+							"price":150
+				},
+   "item":{
+							"name":["巴爾麥棕櫚泉palmetto     +杏桃酒+甜苦艾酒+香苦汁+soda "],
+							"price":200
+				},
+   "item":{
+							"name":["印地安河indian river      +草莓酒+甜苦艾酒+葡萄柚汁 "],
+							"price":150
+				},
+
+  </div>
+  <div class="onePage">
+
+   <h1>白蘭地brandy</h1>
+
+   "item":{
+							"name":["側車 side car     +白柑酒+檸檬汁  "],
+							"price":130
+				},
+   "item":{
+							"name":["亞歷山大alexander   +白可可酒+奶油球"],
+							"price":130
+				},
+   "item":{
+							"name":["白蘭地蛋酒brandy eggnog     +棕蘭姆酒+全蛋+鮮奶  "],
+							"price":150
+				},
+   "item":{
+							"name":["床單之間between the sheets     +白蘭姆酒+白柑酒+檸檬汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["馬脖子horses neck   +薑汁汽水  "],
+							"price":130
+				},
+   "item":{
+							"name":["奧林匹克olympic      +白柑酒+柳橙汁 "],
+							"price":150
+				},
+   "item":{
+							"name":["錐心刺骨stinger     +綠薄荷酒 "],
+							"price":130
+				},
+   "item":{
+							"name":["綠島小夜曲brandy mint fizz       +綠薄荷酒 +白可可酒+檸檬汁+soda "],
+							"price":150
+				},
+   "item":{
+							"name":["蜜桃司令brandied peach sling    +水蜜桃酒+檸檬汁+soda"],
+							"price":150
+				},
+   "item":{
+							"name":["古典美classic     +櫻桃酒+檸檬汁 NT150
+				},
+   "item":{
+							"name":["古巴人cuban     +綠薄荷酒+檸檬汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["墨西哥鬥牛士kahlua toreador    +咖啡酒 +蛋白  "],
+							"price":150
+				},
+   "item":{
+							"name":["年少輕狂Mc brandy    +蘋果汁   +檸檬汁  "],
+							"price":130
+				},
+   "item":{
+							"name":["大富翁Leviathan   +甜苦艾酒+柳橙汁 "],
+							"price":150
+				},
+   "item":{
+							"name":["伊莉莎白女皇queen elizabeth   +甜苦艾酒+白柑酒"],
+							"price":130
+				},
+   "item":{
+							"name":["南太平洋south pacific      +綠薄荷酒+鳳梨汁+檸檬汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["紀念日memorial    +水蜜桃酒   +草莓酒+檸檬汁+香苦汁"],
+							"price":150
+				},
+   "item":{
+							"name":["轉移目標Tee off      +綠薄荷酒+鳳梨汁+柳橙汁"],
+							"price":180
+				},
+   "item":{
+							"name":["聖誕老人santa  +苦艾酒+葡萄柚汁+檸檬汁  "],
+							"price":140
+				},
+   "item":{
+							"name":["激情過後passion     +蜂蜜酒+soda    "],
+							"price":150
+				},
+
+  </div>
+  <div class="onePage">
+
+   <h1>琴gin</h1>
+
+   "item":{
+							"name":["馬丁尼martini     +苦艾酒  "],
+							"price":130
+				},
+   "item":{
+							"name":["藍月亮blue moon    +紫羅蘭酒+檸檬汁  "],
+							"price":130
+				},
+   "item":{
+							"name":["金門大橋golden gate   +柳橙汁 "],
+							"price":150
+				},
+   "item":{
+							"name":["新加坡司令singapore sling      +櫻桃白蘭地+檸檬汁+soda  "],
+							"price":150
+				},
+   "item":{
+							"name":["環遊世界around the world    +威士忌+白蘭地+伏特加+蘭姆酒+龍舌蘭,
+				},
+   "item":{
+							"name":["+白柑酒+苦艾酒+生命之水+綠薄荷酒+鳳梨汁  "],
+							"price":280
+				},
+   "item":{
+							"name":["藍色珊瑚礁   blue coral reef      +綠薄荷酒 "],
+							"price":130
+				},
+   "item":{
+							"name":["螺絲錐子gimlet  +萊姆汁 "],
+							"price":120
+				},
+   "item":{
+							"name":["白雪公主white lady   +白柑酒+檸檬汁  "],
+							"price":130
+				},
+   "item":{
+							"name":["紅粉佳人pink lady    +紅石榴糖漿+蛋白+奶油球 "],
+							"price":130
+				},
+   "item":{
+							"name":["琴湯尼gin tonic   +通寧汽水  "],
+							"price":130
+				},
+   "item":{
+							"name":["天堂樂園paradise    +杏桃酒+柳橙汁 "],
+							"price":180
+				},
+   "item":{
+							"name":["探戈tango    +苦艾酒+白柑酒+柳橙汁  "],
+							"price":130
+				},
+   "item":{
+							"name":["百萬美金million dollar   +蛋白+鳳梨汁+檸檬汁"],
+							"price":130
+				},
+   "item":{
+							"name":["暗夜之吻kissing in the dark     +櫻桃白蘭地+苦艾酒  "],
+							"price":150
+				},
+   "item":{
+							"name":["金色的迷惑golden daze     +水蜜桃酒+柳橙汁 "],
+							"price":150
+				},
+   "item":{
+							"name":["真愛一世情true love       +草莓酒+蜂蜜酒+檸檬汁+soda   "],
+							"price":180
+				},
+   "item":{
+							"name":["巴比倫海岸barbary coast  +威士忌+白可可酒+奶油球  "],
+							"price":150
+				},
+   "item":{
+							"name":["英倫情人english rose     +杏桃酒+苦艾酒+紅石榴糖漿+檸檬汁 "],
+							"price":180
+				},
+   "item":{
+							"name":["風流寡婦merry widow +dubonnet 紅葡萄酒  "],
+							"price":130
+				},
+   "item":{
+							"name":["夏威夷草裙舞hula hula dance   +白柑酒+柳橙汁  "],
+							"price":130
+				},
+
+  </div>
+  <div class="onePage">
+
+
+   <h1>伏特加Vodka</h1>
+
+   "item":{
+							"name":["鹹狗salty dog   +葡萄柚汁 "],
+							"price":150
+				},
+   "item":{
+							"name":["血腥瑪麗bloody mary   +蕃茄汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["賭神～巴卡拉baccara    +龍舌蘭+白柑酒+藍柑酒+檸檬汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["莫斯科騾子moscaw mule    +萊姆汁+薑汁汽水   "],
+							"price":130
+				},
+   "item":{
+							"name":["黑色俄羅斯black russian     +咖啡酒   "],
+							"price":130
+				},
+   "item":{
+							"name":["入夜之後after midnight   +白可可酒+綠薄荷酒 "],
+							"price":130
+				},
+   "item":{
+							"name":["自殺飛機kamikaze    +白柑酒+萊姆汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["螺絲起子screw driver  +柳橙汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["北極熊russian bear  +白可可酒+奶油球 "],
+							"price":130
+				},
+   "item":{
+							"name":["香瓜球melon ball    +香瓜酒+柳橙汁    "],
+							"price":150
+				},
+   "item":{
+							"name":["綠色蚱蜢grasshopper      +白可可酒+綠薄荷酒+奶油球  "],
+							"price":130
+				},
+   "item":{
+							"name":["伏特加萊姆Vodka lime "],
+							"price":120
+				},
+   "item":{
+							"name":["轟炸機b-52   +奶酒+咖啡酒+生命之水"],
+							"price":140
+				},
+   "item":{
+							"name":["越陷越深vodka fraise  +草莓酒+蘭姆酒+紅石榴糖漿+萊姆汁 "],
+							"price":180
+				},
+   "item":{
+							"name":["禁果red apple    +蘋果汁+紅石榴糖漿+檸檬汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["袋鼠男人vodka martine／kangaroo man  +白柑酒+苦艾酒 "],
+							"price":140
+				},
+   "item":{
+							"name":["洪溝aqueduct    +杏桃酒   +白柑酒+萊姆汁 "],
+							"price":150
+				},
+   "item":{
+							"name":["俄國佬russian    +琴酒+白可可酒  "],
+							"price":150
+				},
+   "item":{
+							"name":["熱情之吻kiss of fire    +野莓琴酒+苦艾酒+檸檬汁 "],
+							"price":150
+				},
+   "item":{
+							"name":["藍鯨blue whale     +紫羅蘭酒++奶油球 "],
+							"price":150
+				},
+
+  </div>
+  <div class="onePage">
+
+
+   <h1>龍舌蘭tequila</h1>
+
+   "item":{
+							"name":["鬥牛士matador   +鳳梨汁+萊姆汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["冰凍憂鬱瑪格麗特Frozen blue margarita   +藍柑酒+萊姆汁  "],
+							"price":130
+				},
+   "item":{
+							"name":["瑪格麗特margarita   +白柑酒+萊姆汁  "],
+							"price":130
+				},
+   "item":{
+							"name":["日昇龍舌蘭tequila sun rise     +柳橙汁   "],
+							"price":130
+				},
+   "item":{
+							"name":["日落龍舌蘭tequila sun set   +檸檬汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["法國仙人掌french cactus     +白柑酒 "],
+							"price":120
+				},
+   "item":{
+							"name":["墨西哥可樂mexicola"],
+							"price":130
+				},
+   "item":{
+							"name":["深水炸彈torpedo    +啤酒    "],
+							"price":220
+				},
+   "item":{
+							"name":["特奇拉碰tequila boom    +汽水    "],
+							"price":120
+				},
+   "item":{
+							"name":["龍舌蘭純飲tequila straight "],
+							"price":120
+				},
+   "item":{
+							"name":["意亂情迷dizzy    +柳橙汁+藍柑酒+琴酒+伏特加+蘭姆酒+白柑酒,
+				},
+   "item":{
+							"name":["                                +威士忌+白蘭地+苦艾酒+生命之水         "],
+							"price":300
+				},
+   "item":{
+							"name":["長島冰茶long island icedtea  +琴酒+伏特加+蘭姆酒+白柑酒+可樂 "],
+							"price":180
+				},
+   "item":{
+							"name":["長島果汁long island juice     +琴酒+伏特加+蘭姆酒+白柑酒+柳橙汁   "],
+							"price":180
+				},
+   "item":{
+							"name":["致命女人香tequila nail   ＋蜂蜜酒＋葡萄柚汁 "],
+							"price":180
+				},
+   "item":{
+							"name":["情不自禁tequila fresa  ＋草莓酒＋萊姆汁＋苦精   "],
+							"price":150
+				},
+   "item":{
+							"name":["熱帶雨林rainforest  ＋草莓酒+蜂蜜酒+水蜜桃酒+香瓜酒＋柳橙汁＋SODA "],
+							"price":200
+				},
+   "item":{
+							"name":["墨西哥椰子coconut tequila  ＋椰子酒＋櫻桃酒＋檸檬汁  "],
+							"price":150
+				},
+   "item":{
+							"name":["熱戀傷痕heartbroken   ＋蘋果汁＋檸檬汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["墨西哥高帽子mia vida   ＋咖啡酒＋可可酒＋奶油球+泡奶油 "],
+							"price":180
+				},
+
+  </div>
+  <div class="onePage">
+
+   <h1>蘭姆酒Rum</h1>
+
+   "item":{
+							"name":["古巴自由軍cuba libre ＋檸檬＋可樂  "],
+							"price":130
+				},
+   "item":{
+							"name":["天蠍宮scorpion    ＋柳橙汁＋檸檬汁+白蘭地 "],
+							"price":150
+				},
+   "item":{
+							"name":["藍色夏威夷blue hawaii  ＋鳳梨汁＋檸檬汁＋藍柑酒 "],
+							"price":150
+				},
+   "item":{
+							"name":["冰凍水果黛克瑞frozen daiquiri  ＋萊姆汁＋水果酒 "],
+							"price":150
+				},
+   "item":{
+							"name":["白宮夜未眠el presidente  ＋柳橙汁＋檸檬汁 "],
+							"price":130
+				},
+   "item":{
+							"name":["邁泰mia tai  ＋白柑酒＋柳橙汁+檸檬汁+鳳梨汁+棕色蘭姆酒 "],
+							"price":150
+				},
+   "item":{
+							"name":["卡薩布蘭加casablanca  ＋白柑酒＋櫻桃酒＋萊姆汁＋香味苦精   "],
+							"price":140
+				},
+   "item":{
+							"name":["一千零一夜arabian night  ＋咖啡酒＋奶油球+ 肉桂粉"],
+							"price":130
+				},
+   "item":{
+							"name":["粉紅色頑皮豹pink panther     + 檸檬汁＋紅石榴糖漿"],
+							"price":180
+				},
+   "item":{
+							"name":["椰林風情pinacolada    +椰子酒＋鳳梨汁＋奶油球  "],
+							"price":150
+				},
+   "item":{
+							"name":["山賊bushranger  +dubonnet 紅葡萄酒＋苦精＋檸檬角  "],
+							"price":130
+				},
+   "item":{
+							"name":["大溪地俱樂部   tahiti club    ＋萊姆汁＋鳳梨汁＋櫻桃酒 "],
+							"price":150
+				},
+   "item":{
+							"name":["惡魔尾巴devils tail    ＋伏特加＋杏桃酒＋萊姆汁 "],
+							"price":150
+				},
+   "item":{
+							"name":["加勒比海咖啡酒caribbean cafe   ＋可可酒＋冰咖啡＋奶油球+鮮奶油 "],
+							"price":180
+				},
+   "item":{
+							"name":["哥倫比亞／新大陸columbia   ＋草莓酒＋櫻桃酒＋檸檬汁  "],
+							"price":180
+				},
+   "item":{
+							"name":["瓶塞corkscrew  +水蜜桃酒＋苦艾酒  "],
+							"price":180
+				},
+   "item":{
+							"name":["蜜糖的吻bees kiss  +蜂蜜酒＋奶油球  "],
+							"price":180
+				},
+   "item":{
+							"name":["猴子monkey     +白柑酒＋鳳梨汁  "],
+							"price":130
+				},
+  </div>
+  <div class="onePage">
+   <h1>香甜酒Liqueurs</h1>
+   "item":{
+							"name":["貝禮詩牛奶Baileys Milk "],
+							"price":130
+				},
+   "item":{
+							"name":["卡魯瓦牛奶Kahlua Milk "],
+							"price":130
+				},
+   "item":{
+							"name":["原子彈 A-boom   +椰香酒+生命之水  "],
+							"price":130
+				},
+   "item":{
+							"name":["椰香奶蛋酒Coconut Eggnog   +椰香酒+全蛋+鮮奶 "],
+							"price":150
+				},
+
+</div>
+}
